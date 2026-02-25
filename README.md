@@ -28,4 +28,13 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 - an electric start kit
 - a 12V battery
 - possibly even headlights and some sensors
+# Parts
+## Drivetrain
+## Frame
+## Steering, Brakes & Tires
+## Misc. (Unnecessary weight)
+# Media
+![A photo of Clarkson should be here](https://i.pinimg.com/736x/38/5b/d8/385bd8ea4851b1e2a5131bceb5f2b8e8.jpg)
+(photos of our progress)
+
 
