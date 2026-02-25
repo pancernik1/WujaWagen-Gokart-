@@ -30,11 +30,17 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 - possibly even headlights and some sensors
 # Parts
 ## Drivetrain
+- THE BIG AND ALL-MIGHTY Silver GX160 (Fake Honda GX160) Engine making ~7Hp
+- [420 39-Tooth sprocket](https://pl.aliexpress.com/item/1005008125052950.html)
+- [Centrifugal clutch 420 13z 20mm](https://pl.aliexpress.com/item/1005007215766149.html
+- [Chain 420 76 segments](https://pl.aliexpress.com/item/1005006304294128.html)
 ## Frame
+- A random aluminum profiles, 20x20x1,5mm 25x25x1.5mm & 40x40x3mm, more of them will be used as we progress
+- Everything secured in place using a TIG welder, flat bars, screws & steel angles
 ## Steering, Brakes & Tires
-## Misc. (Unnecessary weight)
+## Unnecessary weight (Or is it?)
 # Media
 ![A photo of Clarkson should be here](https://i.pinimg.com/736x/38/5b/d8/385bd8ea4851b1e2a5131bceb5f2b8e8.jpg)
-(photos of our progress)
+![Engine](https://image.ceneostatic.pl/data/products/163281622/177cf93e-12c2-4cd5-b1c9-567a6334fe02_p-silver-silnik-spalinowy-gx160-ohv-19mm-zageszczarka-7km-11331.jpg)
 
 
