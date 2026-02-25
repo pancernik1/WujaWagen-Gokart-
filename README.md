@@ -44,7 +44,7 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 # Media
 ## Renders
 ### V0 Render
-!WujaWagen_release_v0_Render]https://github.com/user-attachments/assets/8da30db3-d102-41b9-ad36-2d2bf20b6bea)
+![WujaWagen_release_v0_Render]https://github.com/user-attachments/assets/8da30db3-d102-41b9-ad36-2d2bf20b6bea)
 ## Parts
 ![Engine](https://image.ceneostatic.pl/data/products/163281622/177cf93e-12c2-4cd5-b1c9-567a6334fe02_p-silver-silnik-spalinowy-gx160-ohv-19mm-zageszczarka-7km-11331.jpg)
 ## Memes and Misc.
