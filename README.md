@@ -35,6 +35,7 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 ## Misc. (Unnecessary weight)
 # Media
 ![A photo of Clarkson should be here](https://i.pinimg.com/736x/38/5b/d8/385bd8ea4851b1e2a5131bceb5f2b8e8.jpg)
+<br>
 (photos of our progress)
 
 
