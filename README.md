@@ -46,6 +46,7 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 # V0 Render
 <img width="800" height="600" alt="WujaWagen_release_v0_Render" src="https://github.com/user-attachments/assets/8da30db3-d102-41b9-ad36-2d2bf20b6bea" />
 ## Others
+<br>
 ![A photo of Clarkson should be here](https://i.pinimg.com/736x/38/5b/d8/385bd8ea4851b1e2a5131bceb5f2b8e8.jpg)
 ![Engine](https://image.ceneostatic.pl/data/products/163281622/177cf93e-12c2-4cd5-b1c9-567a6334fe02_p-silver-silnik-spalinowy-gx160-ohv-19mm-zageszczarka-7km-11331.jpg)
 
