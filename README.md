@@ -43,10 +43,13 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 - Nothing here too
 # Media
 ## Renders
-### V0 Render
-![WujaWagen_release_v0_Render](https://github.com/user-attachments/assets/8da30db3-d102-41b9-ad36-2d2bf20b6bea)
+### V1 Render
+![WujaWagen_release_v1_Render](https://github.com/pancernik1/WujaWagen-Gokart-/blob/dev/Media/V2R.PNG)
+### Rear Axle (V0.2) Render
+![WujaWagen_release_v0.2_Render](https://github.com/user-attachments/assets/6e81e1a6-c9ce-4b93-99cd-4463d9a152d7)
 ## Parts
 ![Engine](https://image.ceneostatic.pl/data/products/163281622/177cf93e-12c2-4cd5-b1c9-567a6334fe02_p-silver-silnik-spalinowy-gx160-ohv-19mm-zageszczarka-7km-11331.jpg)
 ## Memes and Misc.
 ![A photo of Clarkson should be here](https://i.pinimg.com/736x/38/5b/d8/385bd8ea4851b1e2a5131bceb5f2b8e8.jpg)
+
 
