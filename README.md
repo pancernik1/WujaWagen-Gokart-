@@ -44,7 +44,7 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 # Media
 ## Renders
 ### V2 Render
-![WujaWagen_release_v2_Render](https://github.com/pancernik1/WujaWagen-Gokart-/blob/dev/Media/V3R.PNG)
+![WujaWagen_release_v2_Render](https://github.com/pancernik1/WujaWagen-Gokart-/blob/dev/Media/V3R.png)
 ### V1 Render
 ![WujaWagen_release_v1_Render](https://github.com/pancernik1/WujaWagen-Gokart-/blob/dev/Media/V2R.PNG)
 ### Rear Axle (V0.2) Render
