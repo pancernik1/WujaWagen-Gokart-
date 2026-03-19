@@ -43,6 +43,8 @@ For now we are focusing on other parts of the kart , but in the future we plan o
 - Nothing here too
 # Media
 ## Renders
+### Final Render
+![WujaWagen_release_v2_Render](https://github.com/pancernik1/WujaWagen-Gokart-/blob/dev/FRnd.png)
 ### V2 Render
 ![WujaWagen_release_v2_Render](https://github.com/pancernik1/WujaWagen-Gokart-/blob/dev/Media/V3R.png)
 ### V1 Render
