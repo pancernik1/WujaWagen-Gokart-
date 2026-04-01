@@ -15,7 +15,7 @@ into 30-90 minute sessions which were less effective than the 3-4 hour sessions 
 ### 1.4.3 Making the model was harder than it might seem
 While the model looks simple , a lot of features required a bunch of time to model because of their unusual shape.
 Another thing is that the parts had to follow the dimensions which weren't always too specific.
-
+# [THIS README IS A WORK IN PROGRESS]
 
 
 
