@@ -16,6 +16,19 @@ into 30-90 minute sessions which were less effective than the 3-4 hour sessions 
 ### 1.4.3 Making the model was harder than it might seem
 While the model looks simple , a lot of features required a bunch of time to model because of their unusual shape.
 Another thing is that the parts had to follow the dimensions which weren't always too specific.
+# 2:Part list
+## 2.1 - Axle Mount
+### Drawing
+[Not available yet]
+### Description
+The axle mount consists of a bearing mounted to a flat piece of metal. It's task is to mount the rear axle to the frame , to accomplish this two are bolted onto the frame.
+## 2.2 - Brake/Sprocket Mount
+### Drawing
+[Not available yet]
+### Description
+The Brake and Sprocket Mounts are identical. Their task is to mount the disc brake and sprocket onto the rear axle. The mounts are circles with a diameter of 90mm with a ~20mm hole that fits the axle. They have four holes for srews fitting those of the disc brake/sprocket and a circular extrusion with the diameter of 40mm which also fits the disc brake/sprocket.
+# 3: The model making process
+## 3.1 The project's creation and first changes 
 # [THIS README IS A WORK IN PROGRESS]
 
 
