@@ -31,15 +31,15 @@ The Brake and Sprocket Mounts are identical. Their task is to mount the disc bra
 
 ## 2.3 - Control Rod
 ### Drawing
-[Not available yet]
+![ControlRod.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/ControlRod.png)
 ### Description
-[Not available yet]
+The control rods are part of the steering assembly. They attach onto the rack&pinion mechanism via M10 screws and connect it to the spindles using 10mm pins that are secured to the spindles with M10 nuts
 
 ## 2.4 - Disc Brake
 ### Drawing
-[Not available yet]
+![DiscBrake.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/DiscBrake.png)
 ### Description
-[Not available yet]
+The disc brake is... well, the disc brake. It is attached to the axle via mount and i don't think i need to wxplain much more.
 
 ## 2.5 - Frame
 ### Drawing
