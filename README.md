@@ -97,7 +97,7 @@ It's a part of the drive train and transfers the engine's rotation onto the rear
 
 ## 2.14 - Steering rod
 ### Drawing
-[Not available yet]
+![Steering-rod](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSteering%20rod%20mount.png)
 ### Description
 Connects the steering wheel mount and Rack&Pinion mechanism with cardan joints
 
