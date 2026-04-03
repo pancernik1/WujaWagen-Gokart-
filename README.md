@@ -1,18 +1,18 @@
 ![assembly-gif](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/WWASSEMBLY%20%281%29.gif)
 # 1: Introduction to the CAD documentation.
 ## 1.1 What the hell is this?
-This is is the full documentation of the CAD model , it's purpose is to explain all the details of the model's making.
-## 1.2 Who am i?
-I am our team's CAD designer and the team lead ,i hoped that i won't have to spend time on the documentation and my friend who took care of our blueprint page will manage to take care of this too , but since it's required to give a lot of details i decided to do it myself.
+This is the full documentation of the CAD model , its purpose is to explain all the details of the model's making.
+## 1.2 Who am I?
+I am our team's CAD designer and the team lead ,I hoped that i won't have to spend time on the documentation and my friend who took care of our blueprint page will manage to take care of this too, but since it's required to give a lot of details i decided to do it myself.
 ## 1.3 How long did it actually take to make the CAD model and why?
-I chcecked the software i use for time management in my projects (Manic Time)  and since the day of the project's start
-i've spent 110 hours in Fusion and i think the 85 hours is a fair estimate since i did spend some of that time on other projects/AFK.
+I chcecked the software I use for time management in my projects (Manic Time)  and since the day of the project's start
+I've spent 110 hours in Fusion and I think the 85 hours is a fair estimate since I did spend some of that time on other projects/AFK.
 ## 1.4:Why did it take so long?
-### 1.4.1 I'm still learning
-The whole point of this project (and from what i understand blueprint too) is to learn engineering. After all i'm just a 14yo and not an engineer  with 10 years of experience. If you needed  me to guess how much of the time i spent on the project actually went public then i'd say it was like 50 hours. However since the 35 hours spent on figuring stuff out was spent on the project , i think it should be counted just like the rest.
+### 1.4.1 We're still learning
+The whole point of this project (and from what I understand blueprint too) is to learn engineering. After all I'm just a 14yo and not an engineer  with 10 years of experience. If you needed  me to guess how much of the time I spent on the project actually went public then I'd say it was like 50 hours. However since the 35 hours spent on figuring stuff out was spent on the project , I think it should be counted just like the rest.
 ### 1.4.2 The time was spread around
-Since i am ending middle school this year and have to prepare for the final exams and we also took part in some academic competitions i didn't have as much free time as i'd want to. This resulted in having to spread out the time
-into 30-90 minute sessions which were less effective than the 3-4 hour sessions i'm used to.
+Since some of us are ending middle school this year and have to prepare for the final exams and we also took part in some academic competitions i didn't have as much free time as we would want to. This resulted in having to spread out the time
+into 30-90 minute sessions which were less effective than the 3-4 hour sessions I'm used to.
 ### 1.4.3 Making the model was harder than it might seem
 While the model looks simple , a lot of features required a bunch of time to model because of their unusual shape.
 Another thing is that the parts had to follow the dimensions which weren't always too specific.
@@ -21,7 +21,7 @@ Another thing is that the parts had to follow the dimensions which weren't alway
 ### Drawing
 ![AxleMount_td.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/AxleMount_td.png)
 ### Description
-The axle mount consists of a bearing mounted to a flat piece of metal. It's task is to mount the rear axle to the frame , to accomplish this two are bolted onto the frame.
+The axle mount consists of a bearing mounted to a flat piece of metal. Its task is to mount the rear axle to the frame , to accomplish this two are bolted onto the frame.
 
 ## 2.2 - Brake/Sprocket Mount
 ### Drawing
@@ -39,13 +39,13 @@ The control rods are part of the steering assembly. They attach onto the rack&pi
 ### Drawing
 ![DiscBrake.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/DiscBrake.png)
 ### Description
-The disc brake is... well, the disc brake. It is attached to the axle via mount and i don't think i need to wxplain much more.
+The disc brake is... well, the disc brake. It is attached to the axle via mount and I don't think I need to explain much more.
 
 ## 2.5 - Frame
 ### Drawing
 [Not available yet]
 ### Description
-The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166X70.
+The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166x70cm.
 
 ## 2.6 - GX160
 ### Drawing
@@ -75,7 +75,7 @@ Its uhhh , a rim? It connects the wheel mounts to the tires. (Also they look coo
 ### Drawing
 [Not available yet]
 ### Description
-The seat is based on a cheap bucket seat found on aliexpress but personally i think buying a cinquacento seat for 10$ is a much better choice.
+The seat is based on a cheap bucket seat found on aliexpress but personally i think buying a seat from a Fiat Cinquecento from your neighbor is a better idea.
 
 ## 2.11 - Seat Mount
 ### Drawing
@@ -93,13 +93,13 @@ The spindles bolt onto the frame , attaching the wheels to the frame and connect
 ### Drawing
 [Not available yet]
 ### Description
-It's part of the drive train and transfers the engine's rotation onto the rear axle
+It's a part of the drive train and transfers the engine's rotation onto the rear axle
 
 ## 2.14 - Steering rod
 ### Drawing
 [Not available yet]
 ### Description
-Connect's the steering wheel mount and Rack&Pinion mechanism with cardan joints
+Connects the steering wheel mount and Rack&Pinion mechanism with cardan joints
 
 ## 2.15 - Steering rod mount
 ### Drawing
