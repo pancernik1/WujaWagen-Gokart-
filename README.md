@@ -121,9 +121,9 @@ The disc brake is... well, the disc brake. It is attached to the axle via mount 
 
 ## 2.18 - Tire
 ### Drawing
-[Not available yet]
+![Tyre.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/Tyre.png)
 ### Description
-[Not available yet]
+It's.... a tire?
 
 ## 2.19 - Wheel mount
 ### Drawing
