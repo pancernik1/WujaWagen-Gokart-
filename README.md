@@ -1,4 +1,4 @@
-![assembly-gif](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/WWASSEMBLY%20%281%29.gif)
+![assembly-gif](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/WWASSEMBLY%20%281%29.gif)
 # 1: Introduction to the CAD documentation.
 ## 1.1 What the hell is this?
 This is is the full documentation of the CAD model , it's purpose is to explain all the details of the model's making.
@@ -19,14 +19,119 @@ Another thing is that the parts had to follow the dimensions which weren't alway
 # 2:Part list
 ## 2.1 - Axle Mount
 ### Drawing
-[Not available yet]
+![AxleMount_td.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/AxleMount_td.png)
 ### Description
 The axle mount consists of a bearing mounted to a flat piece of metal. It's task is to mount the rear axle to the frame , to accomplish this two are bolted onto the frame.
+
 ## 2.2 - Brake/Sprocket Mount
+### Drawing
+![Brake-Sprocket_Mount.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/Brake-Sprocket_Mount.png)
+### Description
+The Brake and Sprocket Mounts are identical. Their task is to mount the disc brake and sprocket onto the rear axle. The mounts are circles with a diameter of 90mm with a ~20mm hole that fits the axle. They have four holes for srews fitting those of the disc brake/sprocket and a circular extrusion with the diameter of 40mm which also fits the disc brake/sprocket.
+
+## 2.3 - Control Rod
 ### Drawing
 [Not available yet]
 ### Description
-The Brake and Sprocket Mounts are identical. Their task is to mount the disc brake and sprocket onto the rear axle. The mounts are circles with a diameter of 90mm with a ~20mm hole that fits the axle. They have four holes for srews fitting those of the disc brake/sprocket and a circular extrusion with the diameter of 40mm which also fits the disc brake/sprocket.
+[Not available yet]
+
+## 2.4 - Disc Brake
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.5 - Frame
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.6 - GX160
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.7 - Rack&Pinion Mechanism
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.8 - Rear Axle
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.9 - Rim
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.10 - Seat
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.11 - Seat Mount
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.12 - Spindle
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.13 - Sprocket
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.14 - Steering rod
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.15 - Steering rod mount
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.16 - Steering wheel
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.17 - Steering wheel mount
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.18 - Tire
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+## 2.19 - Wheel mount
+### Drawing
+[Not available yet]
+### Description
+[Not available yet]
+
+
 # 3: The model making process
 ## 3.1 The project's creation and first changes 
 # [THIS README IS A WORK IN PROGRESS]
