@@ -115,9 +115,9 @@ The spindles bolt onto the frame , attaching the wheels to the frame and connect
 
 ## 2.17 - Steering wheel mount
 ### Drawing
-[Not available yet]
+![Steerwing Wheel Mount](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSteering%20wheel%20mount.png)
 ### Description
-[Not available yet]
+The steering wheel mount is an element that attaches the steering wheel to the steering rod.
 
 ## 2.18 - Tire
 ### Drawing
