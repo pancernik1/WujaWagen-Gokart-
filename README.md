@@ -93,29 +93,29 @@ The spindles bolt onto the frame , attaching the wheels to the frame and connect
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+It's part of the drive train and transfers the engine's rotation onto the rear axle
 
 ## 2.14 - Steering rod
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+Connect's the steering wheel mount and Rack&Pinion mechanism with cardan joints
 
 ## 2.15 - Steering rod mount
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+Part of a cardan joint , two of these are needed , one handles the Rack&Pinion-Steering Rod connection and the other handles the Steering Rod-Steering Wheel Mount connection.
 
 ## 2.16 - Steering wheel
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+It is a steering wheel. It is used for steering.That would be all , if not for the fact making it was literal hell on earth because of all the curves and angled surfaces.
 
 ## 2.17 - Steering wheel mount
 ### Drawing
-![Steerwing Wheel Mount](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSteering%20wheel%20mount.png)
+![Steering Wheel Mount](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSteering%20wheel%20mount.png)
 ### Description
 The steering wheel mount is an element that attaches the steering wheel to the steering rod.
 
@@ -129,7 +129,7 @@ It's.... a tire?
 ### Drawing
 ![WheelMount.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/WheelMount.png)
 ### Description
-[Not available yet]
+Connects the axle and wheels , was pretty hard to model at first but after i realised the distance of the screw holes from the center hole is (75√3)mm/3 it was okay.
 
 
 # 3: The model making process
