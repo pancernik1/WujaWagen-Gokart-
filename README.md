@@ -127,7 +127,7 @@ The disc brake is... well, the disc brake. It is attached to the axle via mount 
 
 ## 2.19 - Wheel mount
 ### Drawing
-[Not available yet]
+![WheelMount.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/WheelMount.png)
 ### Description
 [Not available yet]
 
