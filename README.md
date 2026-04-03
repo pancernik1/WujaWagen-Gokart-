@@ -45,49 +45,49 @@ The disc brake is... well, the disc brake. It is attached to the axle via mount 
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166X70.
 
 ## 2.6 - GX160
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+The Honda GX160 is the only model that wasn't made by me and was instead downloaded from the internet.The only changes are the 25x25mm profiles which i added as those are mounted to our GX160.
 
 ## 2.7 - Rack&Pinion Mechanism
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+The Rack&Pinion mechanism is part of the steering assembly and converts the steering wheel and rod's rotation into horizontal movement. It also was one of the more complicated models , but definetely not the hardest.
 
 ## 2.8 - Rear Axle
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+The rear axle is the connecting point of the drive train , braking system and the frame while also connecting the drive train to the wheels via wheel mounts.
 
 ## 2.9 - Rim
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+Its uhhh , a rim? It connects the wheel mounts to the tires. (Also they look cool)
 
 ## 2.10 - Seat
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+The seat is based on a cheap bucket seat found on aliexpress but personally i think buying a cinquacento seat for 10$ is a much better choice.
 
 ## 2.11 - Seat Mount
 ### Drawing
 [Not available yet]
 ### Description
-[Not available yet]
+The seat mount is just two 40x40 V-Slot profiles which make it easy to adjust the seat if needed.
 
 ## 2.12 - Spindle
 ### Drawing
 [Not available yet]
-### Description
-[Not available yet]
+The spindles bolt onto the frame , attaching the wheels to the frame and connecting rods which turns the connecting rod's horizontal -ish movement into wheel rotation.
+
 
 ## 2.13 - Sprocket
 ### Drawing
