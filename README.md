@@ -109,7 +109,7 @@ Part of a cardan joint , two of these are needed , one handles the Rack&Pinion-S
 
 ## 2.16 - Steering wheel
 ### Drawing
-[Not available yet]
+![Steering wheel](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSteering%20wheel.png)
 ### Description
 It is a steering wheel. It is used for steering.That would be all , if not for the fact making it was literal hell on earth because of all the curves and angled surfaces.
 
