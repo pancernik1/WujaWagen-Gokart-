@@ -91,7 +91,7 @@ The spindles bolt onto the frame , attaching the wheels to the frame and connect
 
 ## 2.13 - Sprocket
 ### Drawing
-![Sprocket.png](link.png)
+![Sprocket.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2F39Z%20Sprocket%20428.png)
 ### Description
 It's a part of the drive train and transfers the engine's rotation onto the rear axle
 
