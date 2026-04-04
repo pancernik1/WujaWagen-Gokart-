@@ -43,13 +43,13 @@ The disc brake is... well, the disc brake. It is attached to the axle via mount 
 
 ## 2.5 - Frame
 ### Drawing
-![frame.png](link.png)
+![frame.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FFrame.png)
 ### Description
 The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166x70cm.
 
 ## 2.6 - GX160
 ### Drawing
-![gx160.png](link.png)
+![gx160.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FGX160.png)
 ### Description
 The Honda GX160 is the only model that wasn't made by me and was instead downloaded from the internet.The only changes are the 25x25mm profiles which i added as those are mounted to our GX160.
 
