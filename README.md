@@ -75,17 +75,17 @@ Its uhhh , a rim? It connects the wheel mounts to the tires. (Also they look coo
 ### Drawing
 ![Seat.png](link.png)
 ### Description
-The seat is based on a cheap bucket seat found on aliexpress but personally i think buying a seat from a Fiat Cinquecento from your neighbor is a better idea.
+The seat is based on a cheap bucket seat found on aliexpress but personally I think buying a seat from a Fiat Cinquecento from your neighbor is a better idea.
 
 ## 2.11 - Seat Mount
 ### Drawing
-![Seat-Mount.png](link.png)
+![Seat-Mount.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSeat%20mount.png)
 ### Description
 The seat mount is just two 40x40 V-Slot profiles which make it easy to adjust the seat if needed.
 
 ## 2.12 - Spindle
 ### Drawing
-![Spindle.png](link.png)
+![Spindle.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSpindle.png)
 The spindles bolt onto the frame , attaching the wheels to the frame and connecting rods which turns the connecting rod's horizontal -ish movement into wheel rotation.
 
 
