@@ -43,13 +43,13 @@ The disc brake is... well, the disc brake. It is attached to the axle via mount 
 
 ## 2.5 - Frame
 ### Drawing
-![frame.png](link.png)
+![frame.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FFrame.png)
 ### Description
 The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166x70cm.
 
 ## 2.6 - GX160
 ### Drawing
-![gx160.png](link.png)
+![gx160.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FGX160.png)
 ### Description
 The Honda GX160 is the only model that wasn't made by me and was instead downloaded from the internet.The only changes are the 25x25mm profiles which i added as those are mounted to our GX160.
 
@@ -91,13 +91,13 @@ The spindles bolt onto the frame , attaching the wheels to the frame and connect
 
 ## 2.13 - Sprocket
 ### Drawing
-![Sprocket.png](link.png)
+![Sprocket.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2F39Z%20Sprocket%20428.png)
 ### Description
 It's a part of the drive train and transfers the engine's rotation onto the rear axle
 
 ## 2.14 - Steering rod
 ### Drawing
-![Steering-rod](link)
+![Steering-rod](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSteering%20rod.png)
 ### Description
 Connects the steering wheel mount and Rack&Pinion mechanism with cardan joints
 
