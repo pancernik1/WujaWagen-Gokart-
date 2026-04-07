@@ -43,7 +43,7 @@ The disc brake is... well, the disc brake. It is attached to the axle via mount 
 
 ## 2.5 - Frame
 ### Drawing
-![frame.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FFrame.png)
+![Frame.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/Frame.png)
 ### Description
 The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166x70cm.
 
@@ -133,7 +133,25 @@ Connects the axle and wheels , was pretty hard to model at first but after i rea
 
 
 # 3: The model making process
-## 3.1 The project's creation and first changes 
+## 3.1 - The idea.
+As the birth of the project was already covered in another journal , i will only cover the start of the CAD project here. Another important thing is that if you want to see every sketch and step of the model's creation you can do that by using fusion's timeline feature like the gif in the beggining of this documentation. The idea to have a CAD representation of our kart came before the decision to ask for help from blueprint. In the begginning we didn't want to have a fully planned model and wanted to copy what we made IRL into fusion , that however changed when my friend told me about blueprint.
+## 3.2 - The first project
+After the decision to try making the project open source and try handing it to blueprint for help with funding i decided to scrap the previous project , but it only contained a frame made out of 25x25 aluminum profiles , the engine mounts and GX160 model.
+## 3.3 - The Redo
+The first thing i did was recreate what i did in the previous project but better. This led to making another drawing of the engine mounts , but the frame and main engine support were made into steel 30x30's providing the needed strength. Here is a screenshot of that model : 
+![GX160ANDMOUNTS.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/GX160ANDMOUNTS.png)
+## 3.4 - The Rear Axle
+### The axle
+The axle wasn't to diificult to make , its just a mirrored cylinder with its diameter lowering every so often and some teeth made using the spur gear tool.
+Here is one half of the axle without the teeth:
+![axle_start.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/axle_start.png)
+### The mounts
+Both the axle mounts and the brake mounts are pretty straight forward , since the axle mount is just an extruded 2D shape with holes for bolts , and the brake/sprocket mount is again just two merged cylinders with some holes. (See drawings in 2.1 and 2.2)
+### The sprocket
+The difficult part about making the sprocket was that its diffrent from a gear so i couldn't use the spur gear tool and had to model the teeth myself. after i drew one tooth i just had to make a circular array and extrude.
+![SprocketSketch.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/SprocketSketch.png)
+### The disc brake
+Making the disc brake was just a matter of figuring out how to offset the hole arrays , other than that it was easy.
 # [THIS README IS A WORK IN PROGRESS]
 
 
