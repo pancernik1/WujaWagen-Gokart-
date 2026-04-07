@@ -61,13 +61,13 @@ The Rack&Pinion mechanism is part of the steering assembly and converts the stee
 
 ## 2.8 - Rear Axle
 ### Drawing
-![rear-axle.png](link.png)
+![rear-axle.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FRear%20Axle.png)
 ### Description
 The rear axle is the connecting point of the drive train , braking system and the frame while also connecting the drive train to the wheels via wheel mounts.
 
 ## 2.9 - Rim
 ### Drawing
-![rim.png](link.png)
+![rim.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FRim.png)
 ### Description
 Its uhhh , a rim? It connects the wheel mounts to the tires. (Also they look cool)
 
