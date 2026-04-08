@@ -42,7 +42,7 @@ The control rods are part of the steering assembly. They attach onto the rack&pi
 The disc brake is... well, the disc brake. It is attached to the axle via mount and I don't think I need to explain much more.
 
 ## 2.5 - Frame
-### Drawing
+### Drawings
 ![Frame.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Drawings/Frame.png)
 ### Description
 The frame is a rectangle made out of 30x30 steel profiles with the dimensions of 166x70cm.
@@ -139,19 +139,42 @@ After the decision to try making the project open source and try handing it to b
 ## 3.3 - The Redo
 The first thing i did was recreate what i did in the previous project but better. This led to making another drawing of the engine mounts , but the frame and main engine support were made into steel 30x30's providing the needed strength. Here is a screenshot of that model : 
 ![GX160ANDMOUNTS.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/GX160ANDMOUNTS.png)
-## 3.4 - The Rear Axle
+## 3.4 - The Rear Axle (V1 and V2)
 ### The axle
 The axle wasn't to diificult to make , its just a mirrored cylinder with its diameter lowering every so often and some teeth made using the spur gear tool.
 Here is one half of the axle without the teeth:
 ![axle_start.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/axle_start.png)
-### The mounts
-Both the axle mounts and the brake mounts are pretty straight forward , since the axle mount is just an extruded 2D shape with holes for bolts , and the brake/sprocket mount is again just two merged cylinders with some holes. (See drawings in 2.1 and 2.2)
 ### The sprocket
 The difficult part about making the sprocket was that its diffrent from a gear so i couldn't use the spur gear tool and had to model the teeth myself. after i drew one tooth i just had to make a circular array and extrude.
 ![SprocketSketch.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/SprocketSketch.png)
 ### The disc brake
 Making the disc brake was just a matter of figuring out how to offset the hole arrays , other than that it was easy.
-# [THIS README IS A WORK IN PROGRESS]
+### The mounts
+Both the axle mounts and the brake mounts are pretty straight forward , since the axle mount is just an extruded 2D shape with holes for bolts , and the brake/sprocket mount is again just two merged cylinders with some holes. (See drawings in 2.1 and 2.2) Aftet that , i decided to upload it to github and call it the V1 version.
+### Frame 
+After finishing the rear axle i decided it was to adjust the frame , resulting in this render, which ended the short V2 stage of the project.
+![V2R.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/V2R.png)
+## Steering System (V3)
+### Rack&Pinion 
+The first part of the steering system i designed was the base - The rack & pinion mechanism. While it may look difficult to model i made a side profile and used the revolve function to make it.
+![V2R.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/RnP.png)
+### Control rod
+Making the control rod was just a case of merging two cylinders at a 90 degree angle , not much else to talk about here.
+### Spindle
+The spindle was really simple since it's a cylinder with a hole and two flat pieces of metal attached.
+### Steering Rod
+Making the steering rod was just a case of making the mount , copying it and connecting them with a cylinder
+### Steering wheel mount
+It was a pretty straight forward part to make , not much to explain here
+### Steering wheel
+This one is really hard to explain , since i barely managed to make it , however all i can say i created the center piece , created a slanted surface for the mounts from an axis i sketched and after extruding along that surface i just had to make the ring using lots and lots of curves.
+## Final change (V4)
+### Wheel mounts
+I think i already covered them enough in 2.19 
+### Rims
+These aren't too interesting , the complicated look comes from some neat lofts. 
+### Tires
+The obviously interesting part of the tires is the tread , which was made by maing a flat projection , extruding it and wrapping it around the previously made cylinder.
 
 
 
