@@ -72,10 +72,8 @@ The rear axle is the connecting point of the drive train , braking system and th
 It's uhhh , a rim? It connects the wheel mounts to the tires. (Also they look cool)
 
 ## 2.10 - Seat
-### Drawing
-![Seat.png](link.png)
 ### Description
-The seat is based on a cheap bucket seat found on aliexpress but personally I think buying a seat from a Fiat Cinquecento from your neighbor is a better idea.
+The seat is based on a cheap bucket seat found on aliexpress used as a placeholder , but personally I think buying a seat from a Fiat Cinquecento  is a better idea , for that reason i'm not adding a drawing here.
 
 ## 2.11 - Seat Mount
 ### Drawing
