@@ -55,7 +55,7 @@ The Honda GX160 is the only model that wasn't made by me and was instead downloa
 
 ## 2.7 - Rack&Pinion Mechanism
 ### Drawing
-![Rack&Pinion.png](link.png)
+![Rack&Pinion.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FRacknPinion.png)
 ### Description
 The Rack&Pinion mechanism is part of the steering assembly and converts the steering wheel and rod's rotation into horizontal movement. It also was one of the more complicated models , but definetely not the hardest.
 
@@ -69,7 +69,7 @@ The rear axle is the connecting point of the drive train , braking system and th
 ### Drawing
 ![rim.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FRim.png)
 ### Description
-Its uhhh , a rim? It connects the wheel mounts to the tires. (Also they look cool)
+It's uhhh , a rim? It connects the wheel mounts to the tires. (Also they look cool)
 
 ## 2.10 - Seat
 ### Drawing
