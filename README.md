@@ -157,7 +157,7 @@ After finishing the rear axle i decided it was to adjust the frame , resulting i
 ## Steering System (V3)
 ### Rack&Pinion 
 The first part of the steering system i designed was the base - The rack & pinion mechanism. While it may look difficult to model i made a side profile and used the revolve function to make it.
-![V2R.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/RnP.png)
+![V2R.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/main/Media/V2R.PNG)
 ### Control rod
 Making the control rod was just a case of merging two cylinders at a 90 degree angle , not much else to talk about here.
 ### Spindle
