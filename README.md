@@ -84,6 +84,7 @@ The seat mount is just two 40x40 V-Slot profiles which make it easy to adjust th
 ## 2.12 - Spindle
 ### Drawing
 ![Spindle.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media%2FDrawings%2FSpindle.png)
+### Description
 The spindles bolt onto the frame , attaching the wheels to the frame and connecting rods which turns the connecting rod's horizontal -ish movement into wheel rotation.
 
 
