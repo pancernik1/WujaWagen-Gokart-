@@ -154,7 +154,7 @@ Both the axle mounts and the brake mounts are pretty straight forward , since th
 ### Frame 
 After finishing the rear axle i decided it was to adjust the frame , resulting in this render, which ended the short V2 stage of the project.
 ![V2R.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/CAD/Media/Renders/V2R.png)
-## Steering System (V3)
+## 3.5 - Steering System (V3)
 ### Rack&Pinion 
 The first part of the steering system i designed was the base - The rack & pinion mechanism. While it may look difficult to model i made a side profile and used the revolve function to make it.
 ![V2R.png](https://github.com/pancernik1/WujaWagen-Gokart-/blob/main/Media/V2R.PNG)
@@ -168,7 +168,7 @@ Making the steering rod was just a case of making the mount , copying it and con
 It was a pretty straight forward part to make , not much to explain here
 ### Steering wheel
 This one is really hard to explain , since i barely managed to make it , however all i can say i created the center piece , created a slanted surface for the mounts from an axis i sketched and after extruding along that surface i just had to make the ring using lots and lots of curves.
-## Final change (V4)
+## 3.6 -Final changes (V4)
 ### Wheel mounts
 I think i already covered them enough in 2.19 
 ### Rims
