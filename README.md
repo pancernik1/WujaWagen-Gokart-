@@ -11,7 +11,7 @@ I've spent 110 hours in Fusion and I think the 85 hours is a fair estimate since
 ### 1.4.1 We're still learning
 The whole point of this project (and from what I understand blueprint too) is to learn engineering. After all I'm just a 14yo and not an engineer  with 10 years of experience. If you needed  me to guess how much of the time I spent on the project actually went public then I'd say it was like 50 hours. However since the 35 hours spent on figuring stuff out was spent on the project , I think it should be counted just like the rest.
 ### 1.4.2 The time was spread around
-Since some of us are ending middle school this year and have to prepare for the final exams and we also took part in some academic competitions i didn't have as much free time as we would want to. This resulted in having to spread out the time
+Since some of us (including me) are ending middle school this year and have to prepare for the final exams and we also took part in some academic competitions i didn't have as much free time as we would want to. This resulted in having to spread out the time
 into 30-90 minute sessions which were less effective than the 3-4 hour sessions I'm used to.
 ### 1.4.3 Making the model was harder than it might seem
 While the model looks simple , a lot of features required a bunch of time to model because of their unusual shape.
