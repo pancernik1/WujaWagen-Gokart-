@@ -1,6 +1,6 @@
 # Indroduction to the project
 ## Who are we?
-We are three teenagers (3x14yo and 16yo) from Poland.
+We are three teenagers (2x15yo and 16yo) from Poland.
 ## How did the project start?
 During our winter break we wanted to do something productive and we all
 enjoy engineering we ended up deciding to make a cheap gokart
